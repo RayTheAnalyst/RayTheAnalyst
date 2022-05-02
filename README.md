@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey there 👋
 
+- 🌱 I’m currently improving my skills doing some projects
+- 
+- - 📫 How to reach me: https://www.linkedin.com/in/raimundwolff/
 <!--
 **RayTheAnalyst/RayTheAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
